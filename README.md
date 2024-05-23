@@ -1,19 +1,14 @@
-<p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
+# Alura requisiçoes
 
-<hr>
+Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos, com o Node.js instalamos o json-server via NPM e o utilizamos para simular uma API REST. 
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
+## 🛠️ Tecnologias utilizadas
+- HTML
+- CSS
+- JS
+- NodeJS
+- Json-server
 
-## Tecnologias utilizadas durante o curso
-* Javascript
-* NodeJS
-* Json-server
+## 🎬 Imagens / Vídeos 
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
-
-## Screenshots
-![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
-![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
+![Alura-play](https://github.com/Mctks2/aluraplay-requisicoes/assets/62295808/585588c2-2901-431e-afe2-9fb5eafc3cd1)
